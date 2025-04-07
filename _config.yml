@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "v2-a8b2653f96ff269f32739330c3a57ddc_1440w"
+  avatar           : "v2-a8b2653f96ff269f32739330c3a57ddc_1440w.jpg"
   name             : "Rui Xu(徐瑞)"
  # pronouns         : # example: "she/her"  
   bio              : "I am just a Earth Online Player"
