@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://github.com/Mike527/Mike527.github.io/tree/master/_publications
 
   # - title: "Talks"
   #   url: /talks/    
