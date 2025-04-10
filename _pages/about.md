@@ -18,7 +18,7 @@ I am Rui Xu, Ph.D. in Engineering, graduated from the School of Computer Science
 
 ### Our research team is continuously seeking motivated graduate students to join our group. Interested candidates are warmly welcome to contact me at xurui@nnu.edu.cn.
 
-
+ 
 ## <center> Publications </center> ##
 (1) Masked Motion Prediction with Semantic Contrast for Point Cloud Sequence Learning
 Han, Yuehui; Xu, Can; Rui, Xu; Qian, Jianjun; Xie, Jin; 
