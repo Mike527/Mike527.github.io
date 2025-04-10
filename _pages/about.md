@@ -22,27 +22,27 @@ I am Rui Xu, Ph.D. in Engineering, graduated from the School of Computer Science
 ## <center> Publications </center> ##
 (1) Masked Motion Prediction with Semantic Contrast for Point Cloud Sequence Learning
 Han, Yuehui; Xu, Can; Rui, Xu; Qian, Jianjun; Xie, Jin; 
-European Conference on Computer Vision (ECCV) 2024.
+European Conference on Computer Vision ***(ECCV) 2024***.
 
 (2) Multi-Attribute Interactions Matter for 3D Visual Grounding
 Can Xu; Yuehui Han; Rui Xu; Le Hui; Jin Xie; Jian Yang; 
-IEEE International Conference on Computer Vision and Pattern Recognition (CVPR) 2024.
+IEEE International Conference on Computer Vision and Pattern Recognition ***(CVPR) 2024***.
 
 (3) Transformer-based point cloud generation network 
 Rui Xu; Le Hui; Yuehui Han; Jianjun Qian; Jin Xie ; 
-ACM International Conference on Multimedia (ACM MM) 2023.
+ACM International Conference on Multimedia ***(ACM MM) 2023***.
 
 (4) Scene Graph Masked Variational Autoencoders for 3D Scene Generation
 Rui Xu; Le Hui; Yuehui Han; Jianjun Qian; Jin Xie; 
-ACM International Conference on Multimedia (ACM MM) 2023.
+ACM International Conference on Multimedia ***(ACM MM) 2023***.
 
 (5) Domain disentangled generative adversarial network for zero-shot sketch-based 3d shape retrieval
 Rui Xu; Zongyan Han; Le Hui; Jianjun Qian; Xie Jin;
-Proceedings of the AAAI Conference on Artificial Intelligence (AAAI) 2022.
+Proceedings of the AAAI Conference on Artificial Intelligence ***(AAAI) 2022***.
 
 (6) Progressive point cloud deconvolution generation network
 Le Hui, Rui Xu, Jin Xie, Jianjun Qian, Jian Yang;
-European Conference on Computer Vision (ECCV) 2020.
+European Conference on Computer Vision ***(ECCV) 2020***.
 
 
 
